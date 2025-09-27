@@ -1,7 +1,3 @@
-Sure! Here’s a **complete README template** for your GitHub repo that explains what the project is, its requirements, and how to run it:
-
----
-
 # VideoTranslatorAI
 
 **Automatically translate videos into multiple languages with AI-powered subtitles.**
