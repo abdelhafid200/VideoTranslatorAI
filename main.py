@@ -7,6 +7,7 @@ from translator import translate_texts
 from video_editor import create_srt
 
 
+
 INPUT_VIDEO = './Videos.mp4'
 AUDIO_FILE = "audio.wav"
 SRT_FILE = "subtitles.srt"
