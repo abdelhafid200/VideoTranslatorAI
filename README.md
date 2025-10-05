@@ -3,6 +3,8 @@
 **Automatically translate videos into multiple languages with AI-powered subtitles.**
 Extract audio, transcribe speech with Whisper, translate with Hugging Face models, generate subtitles, and optionally burn them into the video. Supports long videos, Turkish, English, French, Arabic, and more.
 
+
+
 ---
 
 ## Features
